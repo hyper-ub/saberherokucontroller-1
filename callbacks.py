@@ -24,7 +24,7 @@ Join support group : @{Config.SUPPORT_CHAT}
 """
 
 non_admin = f"<code>You Are Not Allowed To Use This cmd.\nDo</code> /help <code>For get more cmds.\nJoin Chat:</code> @{Config.SUPPORT_CHAT}"
-saber_start = f"@{Config.BOT_USERNAME}'s <code>Control Center devloped & hosted by</code> @fateunion"
+saber_start = f"@{Config.BOT_USERNAME}'s <code>Control Center devloped & hosted by</code> @saberdev"
 
 @run_async
 def startHandler(update,context):
